@@ -1,0 +1,6 @@
+sample_id,site_type,pollutant,removal_efficiency_percent,dominant_genus
+SoilSample_Site_A,soil,hydrocarbon,78.4,Pseudomonas
+WaterSample_Site_B,water,heavy_metal,65.2,Bacillus
+SedimentSample_Site_C,sediment,plastic,42.7,Ideonella
+SoilSample_Site_D,soil,pesticide,88.1,Rhodococcus
+WaterSample_Site_E,water,dye,55.9,Sphingomonas

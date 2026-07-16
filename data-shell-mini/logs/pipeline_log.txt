@@ -1,0 +1,11 @@
+[INFO] 2026-07-10 09:01:12 - Starting quality control on sample1.fastq
+[INFO] 2026-07-10 09:01:45 - QC complete, 4 reads passed filter
+[WARNING] 2026-07-10 09:02:03 - Low quality region detected in sample2.fastq
+[INFO] 2026-07-10 09:02:20 - Starting assembly step
+[ERROR] 2026-07-10 09:03:01 - Assembly failed for sample3.fastq: insufficient coverage
+[INFO] 2026-07-10 09:03:15 - Retrying assembly with adjusted parameters
+[INFO] 2026-07-10 09:04:02 - Assembly complete for sample1.fastq
+[WARNING] 2026-07-10 09:04:30 - Contamination flagged in sample2.fastq bin
+[INFO] 2026-07-10 09:05:00 - Starting taxonomic classification
+[ERROR] 2026-07-10 09:05:45 - Classification tool timed out on sample3.fastq
+[INFO] 2026-07-10 09:06:10 - Pipeline run finished with 2 errors, 2 warnings
